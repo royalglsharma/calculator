@@ -15,6 +15,11 @@ body {
     
 }
 
+.logo{
+    display:grid;
+    align-items:right;
+}
+
 .main
 {display: flex;
     text-align: center;
